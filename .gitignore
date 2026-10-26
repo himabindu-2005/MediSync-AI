@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+*.db
+*.db-wal
+*.db-shm
+/MediSync-AI/
+/work_ui.js

@@ -1,0 +1,4 @@
+hospital,city,medicine,category,quantity,reorder_level,expiry_date
+Demo East Hospital,Bengaluru,Paracetamol 500mg,Analgesic,240,80,31-12-2027
+Demo East Hospital,Bengaluru,ORS Sachets,Essential care,90,100,30-06-2027
+Hyderabad General Hospital,Hyderabad,Paracetamol 500mg,Analgesic,150,60,31-12-2027

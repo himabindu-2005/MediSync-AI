@@ -1,0 +1,4 @@
+hospital,city,medicine,category,quantity,reorder_level,expiry_date
+Hyderabad General Hospital,Hyderabad,Paracetamol 500mg,Analgesic,150,60,2027-12-31
+Hyderabad General Hospital,Hyderabad,Amoxicillin 500mg,Antibiotic,80,50,2027-09-30
+Hyderabad General Hospital,Hyderabad,ORS Sachets,Essential care,120,40,2027-06-30
